@@ -22,7 +22,8 @@ img{
     height:50vh;
     width: 50%;
     background-color:white;
-    border-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 h1{
     font-family: 'Fraunces', serif;
